@@ -9,8 +9,21 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
+  "type": "TAG",
+  "id": "cvt_temp_public_id",
+  "version": 1,
+  "securityGroups": [],
   "displayName": "BG & Pixel",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
+  "categories": [
+    "ADVERTISING",
+    "CONVERSIONS",
+    "REMARKETING"
+  ],
+  
+  "description": "This tag helps you to send event data to Facebook via conventional pixel and via Conversions API.",
+  "containerContexts": [
+    "WEB"
+  ]
 }
 
 {
