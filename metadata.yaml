@@ -15,5 +15,5 @@
 homepage: "https://backgardon.com/"
 documentation: "https://github.com/Leesiyi/gtm"
 versions:
-  - sha: b354c318a52729db6ebc8a7715364416d44ee6ea
+  - sha: 050f72e44e2b2e7b78f58c530d5fbbafb74f63c7
     changeNotes: Initial Version
