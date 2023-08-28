@@ -11,7 +11,6 @@ ___INFO___
 {
   "displayName": "BG & Pixel",
   "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
-  // additional template properties, etc...
 }
 
 {
